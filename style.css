@@ -1,0 +1,28 @@
+input[type=text] {
+    width: 500px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    font-size: 14px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+
+    
+  }
+  
+ 
+
+  .button {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    border: 0px solid #e7e7e7;
+
+    text-decoration: none;
+    margin-left: 14px;
+}
+
+.button:hover {background-color: #e7e7e7;}
+
